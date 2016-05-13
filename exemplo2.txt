@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<title>
+		</title>
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+	</head>
+<body>
+
+	<div  id="menu">
+
+			<div class="cantainer">
+				<fieldset id="testebheta">
+
+				<h1><b><b></h1>
+				
+				<ul class="nav nav-tabs">
+					<li role="presentation" class="active"><a href="index.php">Home</a></li>
+					<li role="presentation" class="active"><a href="Exemplo1.php">Exemplo1</a></li>
+					<li role="presentation" class="active"><a href="Exemplo2.php">Exemplo2</a></li>
+				</ul>
+				</fieldset>
+			</div>
+		</div>
+		
+		<script>
+		a=10;
+		b=10;
+		c=a+b;
+		alert(c);
+		</script>
+
+</body>
+</html>
